@@ -1,3 +1,4 @@
+#using head file
 1. main.c #include "func.h"
 2. func.h type func(arg);
 3. func.c type func(arg ){xxoo}
